@@ -1,3 +1,3 @@
 a =5
-b =20
-print(a*b)
+b =200
+print(a-b)
